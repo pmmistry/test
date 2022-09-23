@@ -16,6 +16,8 @@ tags:
 paths:
   /pets:
     $ref: "./resources/pets.yaml"
+  /pets1:
+    $ref: "./resources/pets.yaml"
   /pets/{petId}:
     $ref: "./resources/pet.yaml"
 components:

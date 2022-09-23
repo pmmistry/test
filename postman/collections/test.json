@@ -310,6 +310,24 @@
 							"body": "{\n  \"code\": -86221087,\n  \"message\": \"proident\"\n}"
 						}
 					]
+				},
+				{
+					"name": "pet1",
+					"id": "f315229d-6a18-4d93-8be8-6d347d066cb9",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "/pets1",
+							"path": [
+								"pets1"
+							]
+						}
+					},
+					"response": []
 				}
 			],
 			"id": "7cb503a0-6a00-4417-9db2-16a7c4518282"
